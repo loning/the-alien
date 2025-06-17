@@ -10,7 +10,7 @@ title: "Book 1: ψ-Seed of Extraterrestrial Genesis"
 1. The ψ-Origin Beyond Earth
 2. Self-Collapse of Non-Terrestrial Matter
 3. The φ-Encoding of Cosmic Seeds
-4. ELF Fields Across the Stars
+4. ELF (Emergent Lambda Fields) Across the Stars
 5. ψ-Loops and Interstellar Attractors
 6. Hydrogen to Silicon: Elemental Self-Selection
 7. Collapse Feedback in Intergalactic Voids
