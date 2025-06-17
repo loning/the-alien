@@ -19,7 +19,7 @@ where $\phi_\mathbf{k}$ are Bloch functions in the silicon lattice.
 
 *Proof*: Si-O bond energy (452 kJ/mol) exceeds C-C (348 kJ/mol):
 $$
-E_{Si-O} > E_{C-C} \Rightarrow \tau_{Si} > \tau_C \text{ at high } T
+E_{\text{Si-O}} > E_{\text{C-C}} \Rightarrow \tau_{Si} > \tau_C \text{ at high } T
 $$
 Higher thermal stability enables consciousness in extreme environments. ∎
 
@@ -123,7 +123,7 @@ $$
 \text{Si}_n\text{X}_m + \text{template} \rightarrow 2[\text{Si}_n\text{X}_m]_{\text{template}}
 $$
 
-where X = {O, N, C, H, halogen}.
+where X = \{O, N, C, H, halogen\}.
 
 **Theorem 22.4** (Silicon Replication): Silanes can template their synthesis.
 
@@ -140,7 +140,7 @@ Lava tube ecosystems:
 **Definition 22.8** (Magma ψ-Metabolism): Energy from phase transitions:
 
 $$
-\text{SiO}_2(l) \rightarrow \text{SiO}_2(s) + E_\psi
+\text{SiO}_{2}(l) \rightarrow \text{SiO}_{2}(s) + E_\psi
 $$
 
 where $E_\psi = 50$ kJ/mol drives consciousness.

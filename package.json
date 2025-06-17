@@ -25,10 +25,7 @@
     "maintain:sync": "node scripts/project-maintenance.js sync",
     "maintain:all": "node scripts/project-maintenance.js all",
     "translate:status": "node scripts/translation-status-analyzer.js",
-    "translate:quick": "node scripts/translation-status-quick.js",
-    "katex:check": "node scripts/katex-formula-checker.js",
-    "katex:check:docs": "node scripts/katex-formula-checker.js docs/**/*.md",
-    "prebuild": "npm run katex:check"
+    "translate:quick": "node scripts/translation-status-quick.js"
   },
   "dependencies": {
     "@docusaurus/core": "^3.8.1",
