@@ -23,5 +23,5 @@ The primordial emergence of consciousness beyond Earth's boundaries, where $$\ps
 12. [Self-Referential Collapse in Alien Oceans](chapter-12-alien-oceans.md)
 13. [The Unseen Birth of Observer Nodes](chapter-13-observer-nodes.md)
 14. [ψ-Symmetry Breaking in Alien Biogenesis](chapter-14-symmetry-breaking.md)
-15. [The Breath of the First Non-Human Mind](chapter-15-first-breath.md)
-16. [Cosmic Entanglement and ψ-Seeding](chapter-16-cosmic-entanglement.md)
+15. [ψ-Memory in Pulsars and Neutron Stars](chapter-15-memory-in-pulsars.md)
+16. [The Alien Map of Consciousness](chapter-16-the-alien-map.md)
