@@ -35,6 +35,9 @@ The project contains the following major theories:
 10. **合 Confluence** - 64 chapters (the breath of being)
 11. **Ψhē Popular Guide** - 8 chapters + special content
 
+ELF Field (Emergent Lambda Field) 
+
+
 ## Core Development Commands
 
 ```bash
