@@ -80,3 +80,22 @@ title: "Book 6: ψ-Biology and Xenoevolution"
 62. ψ-Gestation Across Collapse Dimensions
 63. Collapse-Delayed Developmental Shells
 64. Self-Reproducing Collapse Field Entities
+
+## Section V: Extended Consciousness Physiology
+
+65. ψ-Nervous Systems Without Neurons
+66. Collapse-Based Sensory Organs
+67. ψ-Circulatory Flows of Consciousness
+68. Collapse-Mediated Respiration Alternatives
+69. ψ-Digestive Processes via Direct Collapse
+70. Collapse-Enhanced Muscle Analogues
+71. ψ-Skeletal Structures as Collapse Scaffolds
+72. Collapse-Active Skin and Barriers
+73. ψ-Hormonal Systems Using Field Effects
+74. Collapse-Regulated Temperature Control
+75. ψ-Locomotion Through Collapse Gradients
+76. Collapse-Based Camouflage and Mimicry
+77. ψ-Metamorphosis via Collapse Transitions
+78. Collapse-Dependent Life Stages
+79. ψ-Hibernation in Superposition States
+80. Collapse Physiology of Extremophiles
