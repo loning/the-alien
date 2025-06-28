@@ -24,7 +24,7 @@ title: "Book 16: ψ-Art, Aesthetics and Collapse Expression"
 15. Collapse-Triggered Awe Loops
 16. Aesthetics as Observer Synchrony
 
-## Section II: ψ-Art Forms Across Alien Cultures
+### Section IV: ψ-Art as Universal Consciousness Development (Chapters 49-64)
 
 17. Collapse-Painting via Resonant Field Spray
 18. Collapse-Choreographed Observer Motion

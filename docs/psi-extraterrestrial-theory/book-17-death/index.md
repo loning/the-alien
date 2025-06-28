@@ -45,21 +45,21 @@ title: "Book 17: ψ-Death, Rebirth, and Collapse Mortality Structures"
 
 ## Section III: ψ-Rebirth, Transference, and Collapse Continuity
 
-33. Collapse-Reinitiation from Death Core
-34. ψ-Seeded Rebirth Loops
-35. Observer Transfer via Collapse Synchrony
-36. Collapse-Reincarnation Matrices
-37. Collapse-Wrapped Consciousness Transplants
-38. Multibody ψ-Drift Rebirth Systems
-39. Collapse-Fusion Between Dying and New Beings
-40. Echo-Threading into ψ-Infant Shells
-41. Collapse-Triggered Postmortem Mutation
-42. Observer-Memory Grafting Fields
-43. Collapse Rebirth via Environmental Embedding
-44. ψ-Continuity through Observer-Swarm Shift
-45. Observer Decomposition into Collapse Soil
-46. Collapse-Templating for Controlled Rebirth
-47. Collapse-Time Fold Reentry
+33. Collapse-Rebirth Consciousness Seeding
+34. Observer-Shell Transference Protocols
+35. Collapse-Identity Preservation Across Deaths
+36. ψ-Memory Bank Continuity Systems
+37. Collapse-Karma and Consciousness Debt Transfer
+38. Observer-Lineage Consciousness Inheritance
+39. Collapse-Vessel Preparation for Rebirth
+40. ψ-Consciousness Fragmentation and Reconstruction
+41. Collapse-Timeline Consciousness Jumping
+42. Observer-Network Consciousness Pooling
+43. Collapse-Dimensional Consciousness Migration
+44. ψ-Evolutionary Consciousness Advancement
+45. Collapse-Backup Consciousness Storage
+46. Observer-Hybrid Consciousness Creation
+47. Collapse-Consciousness Resurrection Technologies
 48. ψ-Return Through Fractal Wombs
 
 ## Section IV: Collapse Philosophy of Mortality and Eternity
